@@ -1,0 +1,7 @@
+[defaults]
+search = dos
+pgtpath = /home/ankur/toolbox/PCAP-Generation-Tools/pgt.py
+shellstormpath = /home/ankur/scripts/shell-storm-api.py
+exploitdbpath = 
+metasploitpath = 
+emuprofilesize = 10240
